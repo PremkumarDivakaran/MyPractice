@@ -2,3 +2,4 @@
 MyProject.iml
 target/
 test-output/
+.pom.xml.swp

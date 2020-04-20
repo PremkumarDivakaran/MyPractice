@@ -1,0 +1,1 @@
+{"uuid":"19d3c79a-9bd4-42ee-808a-8172f68192bb","name":"javaProgram.SeleniumLatest","children":["88e2c10b-e1c8-4b9d-b5fa-a384dd622ba1"],"befores":[{"name":"openUrl","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1586619882588,"stop":1586619889480}],"afters":[],"links":[],"start":1586619882538,"stop":1586619889991}
