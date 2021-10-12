@@ -8,7 +8,7 @@ echo 'Build project'
 }
 stage('Test'){
 steps{
-echo 'Run Test'
+echo 'Run Test after build'
 }
 }
 stage('Report'){
