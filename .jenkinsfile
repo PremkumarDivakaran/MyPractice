@@ -28,7 +28,7 @@ pipeline {
                 publishHTML (target : [allowMissing: false,
                             alwaysLinkToLastBuild: true,
                             keepAll: true,
-                            reportDir: 'reports',
+                            reportDir: '',
                             reportFiles: 'index.html',
                             reportName: 'My Reports',
                             reportTitles: 'Extent Report'])
