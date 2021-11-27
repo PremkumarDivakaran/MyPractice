@@ -11,7 +11,9 @@ public class StringProgram {
         char k = 'e';
 
         String name = Integer.toString(n);
-        int name1 = Integer.parseInt(m);
+        //int name1 = Integer.parseInt(m);
+        int name1 = 5;
+        
 
         String.valueOf(n);
 
